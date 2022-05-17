@@ -8,7 +8,7 @@ class Solution:
 
     
 
-a = int(input())
-b = int(input())
-oj = Solution();
-oj.utility(a, b)
+#a = int(input())
+#b = int(input())
+#oj = Solution();
+#oj.utility(a, b)
